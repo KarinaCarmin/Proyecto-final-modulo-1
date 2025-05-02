@@ -1,0 +1,4 @@
+class IdInexistente(Exception):
+    pass
+
+ 

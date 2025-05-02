@@ -1,0 +1,13 @@
+id,titulo,descripcion,fecha_vencimiento,prioridad,completada
+550e8400-e29b-41d4-a716-446655440003,Hacer ejercicio,Salir a correr durante 30 minutos,2024-04-28,Baja,False
+550e8400-e29b-41d4-a716-446655440007,Limpiar la casa,Hacer una limpieza profunda de la sala y la cocina,2025-04-29,Baja,True
+550e8400-e29b-41d4-a716-446655440020,Estudiar Python,Revisar conceptos de listas y diccionarios,2025-05-01,Media,False
+550e8400-e29b-41d4-a716-446655440010,Hacer ejercicio,Ir al gimnasio y hacer una rutina de pesas,2025-05-01,Media,True
+550e8400-e29b-41d4-a716-446655440008,Revisar correo,Responder correos pendientes del trabajo,2025-05-02,Media,False
+550e8400-e29b-41d4-a716-446655440012,Organizar documentos,Clasificar y archivar documentos importantes,2025-05-03,Media,False
+550e8400-e29b-41d4-a716-446655440005,Pagar facturas,Pagar la factura de electricidad y agua,2025-05-05,Alta,False
+550e8400-e29b-41d4-a716-446655440011,Leer un libro,Leer 50 páginas del libro 'El poder del hábito',2025-05-07,Baja,False
+550e8400-e29b-41d4-a716-446655440004,Llamar al médico,Agendar una cita médica para el próximo mes,2025-05-10,Alta,True
+550e8400-e29b-41d4-a716-446655440006,Comprar regalo,Comprar un regalo para el cumpleaños de Ana,2025-05-15,Media,True
+ada3657b-1a3a-4abf-b223-4607991dd499,Comprar nuevo juego,Ir al mall,2025-05-21,Baja,True
+550e8400-e29b-41d4-a716-446655440013,Planificar vacaciones,Buscar destinos y reservar alojamiento,2025-05-25,Baja,False
